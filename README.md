@@ -1,2 +1,6 @@
 # Humility Mini Project
-HTML and CSS entry level project practice for Computer Science course during high school.
+
+# Tech Stack
+- HTML
+- CSS
+- Code.org
