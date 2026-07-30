@@ -1,0 +1,33 @@
+body {
+  background: #e4a122;
+}
+p {
+  color: beige;
+  background: green;
+  text-shadow: 1px 1px pink;
+  font-family: fantasy;
+}
+h1 {
+  font-weight: bold;
+  font-size: 40px;
+  text-align: center;
+  color: orange;
+  text-shadow: -2px 2px orangered;
+  background: beige; 
+}
+h4 {
+  color: deeppink;
+  background: #ffd68a;
+  text-shadow: 1px -1px;
+}
+ol {
+  color: deeppink;
+  background: #ffd68a;
+  text-decoration: underline;
+  font-weight: bold;
+}
+ul{
+  color: brown;
+  background: rosybrown;
+  font-family: serif;
+}
